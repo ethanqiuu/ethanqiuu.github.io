@@ -1,3 +1,2 @@
-## Ethan Qiu
 
-## My website, herro
+## This is my website, herro
